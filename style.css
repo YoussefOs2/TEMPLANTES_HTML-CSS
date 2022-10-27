@@ -192,7 +192,7 @@ header .form i {
 .landing {
   min-height: 100vh;
   background-color: #1f2021;
-  background-image: url(/images/owl\ predator\ bird\ sky\ -\ 1280x960.jpg);
+  background-image: url(https://raw.githubusercontent.com/YoussefOs2/TEMPLANTES_HTML-CSS/main/images/owl%20predator%20bird%20sky%20-%201280x960.jpg);
   background-size: cover;
   position: relative;
 }
@@ -334,7 +334,7 @@ header .form i {
   padding-bottom: var(--section-padding);
   height: 630px;
   position: relative;
-  background-image: url(/images/pexels-noah-erickson-404280.jpg);
+  background-image: url(https://raw.githubusercontent.com/YoussefOs2/TEMPLANTES_HTML-CSS/main/images/pexels-noah-erickson-404280.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
@@ -568,7 +568,7 @@ header .form i {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   text-align: center;
-  background-image: url(/images/stats.png);
+  background-image: url(https://raw.githubusercontent.com/YoussefOs2/TEMPLANTES_HTML-CSS/main/images/stats.png);
   background-size: cover;
   position: relative;
 }
@@ -743,7 +743,7 @@ header .form i {
 .quote {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(/images/pexels-dana-tentis-background.jpg);
+  background-image: url(https://raw.githubusercontent.com/YoussefOs2/TEMPLANTES_HTML-CSS/main/images/pexels-dana-tentis-background.jpg);
   background-size: cover;
   position: relative;
   text-align: center;
@@ -868,7 +868,7 @@ header .form i {
 .subscribe {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(/images/subscribe.jpg);
+  background-image: url(https://raw.githubusercontent.com/YoussefOs2/TEMPLANTES_HTML-CSS/main/images/subscribe.jpg);
   background-size: cover;
   position: relative;
   color: white;
@@ -1021,7 +1021,7 @@ header .form i {
 .footer {
   padding-top: calc(var(--section-padding) / 2) ;
   padding-bottom: calc(var(--section-padding) / 2);
-  background-image: url(/images/pexels-tara-footer-.jpg);
+  background-image: url(https://raw.githubusercontent.com/YoussefOs2/TEMPLANTES_HTML-CSS/main/images/pexels-tara-footer-.jpg);
   background-size: cover;
   position: relative;
   color: white;
