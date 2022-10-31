@@ -440,6 +440,14 @@ header .form i {
 }
 .portfolio .shuffle li {
   padding: 10px;
+  color: #333;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform:capitalize;
+  cursor: pointer;
+}
+.portfolio .shuffle li:hover {
+  color: var(--main-color);
 }
 .portfolio .shuffle li.active {
   color: white;
